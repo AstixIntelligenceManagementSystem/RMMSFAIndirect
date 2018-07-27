@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "118061111367",
+    "firebase_url": "https://rmmsfaindirect-3763a.firebaseio.com",
+    "project_id": "rmmsfaindirect-3763a",
+    "storage_bucket": "rmmsfaindirect-3763a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118061111367:android:adee6528ea8e34bf",
+        "android_client_info": {
+          "package_name": "project.astix.com.rmmsfaindirect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118061111367-cjqnud92clv2qbsmmcv4mn3khrogs3d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_oqcPqBoAhnGdssVOyhREfl9a2XWyiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
