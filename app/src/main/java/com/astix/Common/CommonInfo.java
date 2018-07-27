@@ -160,14 +160,14 @@ public class CommonInfo
 
 	    public static String WebServicePath="http://103.20.212.194/WebServiceAndroidRMMDev/Service.asmx";
 	    public static String VersionDownloadPath="http://103.20.212.194/downloads/";
-		public static String VersionDownloadAPKName="RMMSFADev.apk";
+		public static String VersionDownloadAPKName="RMMSFADemo.apk";
 
 		public static String DATABASE_NAME = "DbRMMSFAApp";
 
 		public static int AnyVisit = 0;
 
-		public static int DATABASE_VERSIONID = 23;      // put this field value based on value in table on the server
-		public static String AppVersionID = "1.5";   // put this field value based on value in table on the server
+		public static int DATABASE_VERSIONID = 45;      // put this field value based on value in table on the server
+		public static String AppVersionID = "1.11";   // put this field value based on value in table on the server
 		public static int Application_TypeID = 2; //1=Parag Store Mapping,2=Parag SFA Indirect,3=Parag SFA Direct
 
 	    public static String OrderSyncPath="http://103.20.212.194/ReadXML_RMMDev/DefaultSFA.aspx";

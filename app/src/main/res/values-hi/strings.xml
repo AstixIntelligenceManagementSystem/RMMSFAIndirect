@@ -3,7 +3,8 @@
   <!-- <string name="app_name">RMM SFA</string>-->
     <!-- <string name="app_name">RMM SFA Stagging</string>-->
     <!--<string name="app_name">RMM SFA Test</string>-->
-     <string name="app_name">RMM SFA Dev</string>
+    <!-- <string name="app_name">RMM SFA Dev</string>-->
+  <string name="app_name">RMM SFA Demo</string>
     <!--<string name="app_name">RMM SFA Test Release</string>-->
 
     <string name="Coverage_Area">कवरेज क्षेत्र</string>
